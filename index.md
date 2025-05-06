@@ -10,3 +10,6 @@ I made headings from 1 to 6 in this index
 ``` javascript
 var myVar = "Hello,world";
 ```
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to this world
